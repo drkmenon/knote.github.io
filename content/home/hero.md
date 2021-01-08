@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "kishore's Notes"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-# hero_media = "hero-academic.png"
+hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -43,7 +43,7 @@ title = "kishore's Notes"
   icon = "enroll"
   
 [cta_alt]
-  url = "https://kishoreputhezhath.com/"
+  url = "https://www.kishoreputhezhath.com/courses/1/"
   label = "Enroll"
 
 
@@ -51,6 +51,8 @@ title = "kishore's Notes"
 
 **The Best Way to learn Orthopaedics**
 
-Build **Yourself** with Wisdom
+Build **Yourself** with Wisdom   
+
+Below is the link to my personal website
 
 
