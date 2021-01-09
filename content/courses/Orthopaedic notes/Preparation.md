@@ -1,10 +1,10 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: FRCS Preparation
+linktitle: Preparation
 menu:
-  example:
-    parent: Orthopaedic course
+  Orthopaedic Notes:
+    parent: General advice
     weight: 1
 title: Personal experience
 toc: true
