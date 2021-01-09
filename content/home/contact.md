@@ -28,8 +28,4 @@ content:
 design:
   columns: '2'
 ---
-<form action="https://formspree.io/f/xbjpqkal" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
-</form>
+<input type="text" name="_replyto" placeholder="Your email" />
