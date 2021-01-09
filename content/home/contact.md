@@ -28,4 +28,3 @@ content:
 design:
   columns: '2'
 ---
-<input type="text" name="_replyto" placeholder="Your email" />
