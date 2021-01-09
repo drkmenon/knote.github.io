@@ -4,7 +4,7 @@ draft: false
 linktitle: Osteoporosis
 menu:
   Orthopaedic Notes:
-    parent: Basic Science
+    parent: FRCS preparatory Notes
     weight: 1
 title: Osteoporosis
 toc: true
