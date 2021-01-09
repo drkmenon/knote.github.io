@@ -20,7 +20,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: test
+      id: https://formspree.io/f/xbjpqkal
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: True
@@ -28,3 +28,8 @@ content:
 design:
   columns: '2'
 ---
+<form action="https://formspree.io/f/xbjpqkal" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
