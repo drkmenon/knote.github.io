@@ -4,7 +4,7 @@ draft: false
 linktitle: Preparation
 menu:
   Orthopaedic Notes:
-    parent: FRCS preparatory Notes
+    parent: General advice
     weight: 1
 title: Personal experience
 toc: true
