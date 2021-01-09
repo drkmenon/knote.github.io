@@ -2,10 +2,10 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: FRCS preparatory Notes
+linktitle: FRCS Notes
 menu:
   Orthopaedic Notes:
-    name: FRCS preparatory Notes
+    name: FRCS Notes
     weight: 1
 summary: Learn Orthopaedics
 title: Overview of the contents
