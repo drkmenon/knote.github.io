@@ -4,7 +4,7 @@ draft: false
 linktitle: Osteoporosis
 menu:
   Orthopaedic Notes:
-    parent: Basic science
+    parent: Basic Science
     weight: 2
 title: Osteoporosis
 toc: true
