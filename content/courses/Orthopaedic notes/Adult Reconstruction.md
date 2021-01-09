@@ -4,7 +4,7 @@ draft: false
 linktitle: Principles of TKA
 menu:
   Orthopaedic Notes:
-    parent: FRCS preparatory Notes
+    parent: Adult Pathology
     weight: 3
 title: TKA Fundamentals
 toc: true
