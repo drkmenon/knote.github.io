@@ -3,7 +3,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 linktitle: Clinical discussions
 menu:
-  Orthopaedic Notes:
+  Archived presentations:
     parent: Case presentations
     weight: 1
 title: Weekly case presentations
