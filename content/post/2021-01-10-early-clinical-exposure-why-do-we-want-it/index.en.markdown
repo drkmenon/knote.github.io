@@ -17,7 +17,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-bibliography: [mypub.bib]
+bibliography: mypub.bib
 csl: vancouver.csl
 link-citations: yes
 ---
@@ -26,8 +26,7 @@ This is all you have to know for your platform independent academic writing.
 {{% /callout %}}
 
 
-Wealthy patients have always been able to choose not to be treated by novices, but now everyone has that option. Expertise has become superspecialized and technological in its nature, so students have to learn clinical skills from scores of teachers. As attachments have become more numerous, they have become shorter and the number of learners has increased, so education has become less personal. Traditional bedside teaching skills have decayed as each generation is less exposed to them.New educational technologies such as skills training and problem-based learning have brought education within the control of the objective-driven curriculum by substituting simulation for reality. `All that sounds depressingly like the curriculum ‘without the personal influence of [clinical] teachers upon pupils’ that Osler likened to an Arctic winter'@dornan2005OslerFlexnerApprenticeship
-
+Wealthy patients have always been able to choose not to be treated by novices, but now everyone has that option. Expertise has become superspecialized and technological in its nature, so students have to learn clinical skills from scores of teachers. As attachments have become more numerous, they have become shorter and the number of learners has increased, so education has become less personal. Traditional bedside teaching skills have decayed as each generation is less exposed to them.New educational technologies such as skills training and problem-based learning have brought education within the control of the objective-driven curriculum by substituting simulation for reality. `All that sounds depressingly like the curriculum ‘without the personal influence of [clinical] teachers upon pupils’ that Osler likened to an Arctic winter'.
 This is bewildering for any medical teacher worth his salt.
 
 Two classic papers that help us to trace the roots of this situation and the potential vaccine for it (the Early Clinical Exposure) are those written by Tim Dornam FRCP and Okay Basak et al.
