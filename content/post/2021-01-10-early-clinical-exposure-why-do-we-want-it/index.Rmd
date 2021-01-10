@@ -18,7 +18,6 @@ projects: []
 bibliography: mypub.bib
 csl: vancouver.csl
 link-citations: yes
-toc: yes
 ---
 {{% callout note %}}
 Authentic human contact in a social or clinical context
