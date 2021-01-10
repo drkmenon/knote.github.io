@@ -37,14 +37,14 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://kishoreputhezhath.com/"
+  url = "https://scolarlylife.netlify.app/courses/orthopaedic-notes/"
   label = "Explore"
   icon_pack = "fas"
   icon = "enroll"
   
 [cta_alt]
-  url = "https://www.kishoreputhezhath.com/courses/1/"
-  label = "Enroll"
+  url = "https://scolarlylife.netlify.app/courses/archived-presentations/"
+  label = "Videos"
 
 
 +++
