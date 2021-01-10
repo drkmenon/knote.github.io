@@ -3,7 +3,7 @@ title: 'Platform independent scholarly writing and methods of writing using comp
 author: "Kishore Puthezhath"
 date: '2021-01-10'
 slug: academic-writin-r-pandoc
-categories: Medical Education
+categories: Scholarly writing
 tags: Academic
 subtitle: ''
 summary: ''
