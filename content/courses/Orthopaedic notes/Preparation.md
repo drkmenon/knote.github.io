@@ -25,7 +25,7 @@ Here I'll share my personal experience and tips for FRCS (Tr & Orth) preparation
 >+ The JSCFE has parity of standard with the existing UK/Ireland Intercollegiate Fellowship. Examinations and is recognised by GMC for Speciality registration.   
 
 ## Examination Pattern
-The current International FRCS (Tr & Orth) exam encompasses two sections: Part I is a written exam and Part II the clinical and oral exam. For further information, and to make sure that your information is up to date, I suggest that you carefully review the Intercollegiate Speciality Board website (http:// www.jscfe.org.uk).
+The current International FRCS (Tr & Orth) exam encompasses two sections: Part I is a written exam and Part II the clinical and oral exam. For further information, and to make sure that your information is up to date, I suggest that you carefully review the Intercollegiate Speciality Board website. [This is the link](http://www.jscfe.org.uk).
 ##### Part I
 This section consists of two separate papers ( a Computer Based Testing-CBT); essentially, a multiple-choice question (MCQ) paper (2 Hours) and an extended matching question (EMQ) paper (2 hours 30 minutes). Part I is generally regarded as the easier section of exam to pass. A number of candidates may be OK learning for an MCQ/EMI paper but be a long way off the standard for a clinical and viva exam.  
 
