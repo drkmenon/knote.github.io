@@ -11,7 +11,7 @@ authors: []
 date: "2019-08-18T13:00:00Z"
 date_end: "2019-09-18T13:00:00Z"
 event: Foundation Course
-event_url: https://https://scolarlylife.netlify.app/talk/example-talk/
+event_url: https://https://scolarlylife.netlify.app/talk/
 featured: false
 image:
   caption: 'Foundation course'
