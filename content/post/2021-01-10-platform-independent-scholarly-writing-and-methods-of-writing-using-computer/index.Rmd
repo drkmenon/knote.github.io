@@ -61,7 +61,7 @@ Following are the requirements:
 + Use `Rmd` (Always from the file, not from new post from addins)
 
 
-With this workflow you donot have to first think which output format you want. 
+With this workflow you donot have to first think which output format you want. I will try to walk you through every step involved in the creation of this workflow in the forth coming posts.
 
 
 
