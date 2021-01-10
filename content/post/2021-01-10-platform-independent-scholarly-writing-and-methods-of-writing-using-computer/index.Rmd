@@ -48,8 +48,7 @@ Amount of time spent in finding a proper workflow, converting documents to diffe
 
 Having said that, there is some learning curve and the initial hard-work needed to achieve this is enormous. Once you have created the workflow and ironed out the `errors`, this will be a life long asset, period.
 
-Following are the 
-## requirements:
+Following are the requirements:
 
 + I use a `MacBook Air`
 + `r` and `RStudio`
