@@ -13,8 +13,6 @@ toc: true
 type: docs
 weight: 2
 ---
-## Flexibility
-
-This feature can be used for publishing content such as:
-
-* **Online courses**
+{{% callout note %}}
+These include some of the academic discussions conducted in our Postgraduate department of Orthopaedics.The opinions of the faculty are all their own and I do-not own or endorse them 
+{{% /callout %}}
