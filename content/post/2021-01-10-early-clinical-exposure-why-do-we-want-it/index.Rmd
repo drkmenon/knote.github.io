@@ -35,3 +35,5 @@ Where as Flexner was a visionary educationalist who raised standards of medicine
 New apprenticeship theory rejects extreme conceptualizations of self-directed learning, recognizing the importance of the chemistry between teacher and learner in the workplace.
 {{% /callout %}}
 [Click to see this model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1079407/table/tbl1/?report=objectonly) which presents those ideas as generalizable suggestions for apprenticeship in modern clinical settings.
+
+## References:
