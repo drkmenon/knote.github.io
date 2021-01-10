@@ -11,32 +11,32 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "projects"
   url = "project/"
   weight = 30
 
 [[main]]
-  name = "Talks"
+  name = "talks"
   url = "#talks"
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "publications"
   url = "publication/"
   weight = 50
 
 [[main]]
-  name = "Courses"
+  name = "courses"
   url = "courses/"
   weight = 60
   
 [[main]]
-  name = "Patient education"
+  name = "patient education"
   url = "patient/"
   weight = 70
 
-#[[main]]
-  #name = "Contact"
+[[main]]
+  #name = "contact"
   #url = "#contact"
   #weight = 70
 
