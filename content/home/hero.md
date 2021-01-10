@@ -53,6 +53,6 @@ hero_media = "hero-academic.png"
 
 Build **Yourself** with Wisdom   
 
-Below is the link to my personal website
+Below is the link to the contents
 
 
