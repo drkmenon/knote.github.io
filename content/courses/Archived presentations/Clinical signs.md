@@ -4,7 +4,7 @@ draft: false
 linktitle: Clinical Signs
 menu:
   Archived presentations:
-    parent: Clinical Signs
+    parent: Archived presentations
     weight: 3
 title: Weekly Clinical Signs presentations
 toc: true

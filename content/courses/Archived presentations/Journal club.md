@@ -4,7 +4,7 @@ draft: false
 linktitle: Journal club
 menu:
   Archived presentations:
-    parent: Journal presentations
+    parent: Archived presentations
     weight: 1
 title: Weekly journal club
 toc: true
