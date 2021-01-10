@@ -26,3 +26,6 @@ weight: 1
 ## Knee Swelling
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QmYqMIcK7y4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Posterior dislocation shoulder
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTgY71o8PSg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
