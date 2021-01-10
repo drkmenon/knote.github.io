@@ -2,12 +2,6 @@
 title: 'Early Clinical Exposure: why do we want it?'
 author: "Kishore Puthezhath"
 date: '2021-01-10'
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    type: docs
-    theme: united
 slug: early-clinical-exposure-why-do-we-want-it
 categories: Medical Education
 tags: Academic
