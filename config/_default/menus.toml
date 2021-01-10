@@ -6,13 +6,13 @@
 
 
 [[main]]
-  name = "Posts"
+  name = "my thoughts"
   url = "#posts"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "projects/"
   weight = 30
 
 [[main]]
@@ -29,6 +29,11 @@
   name = "Courses"
   url = "courses/"
   weight = 60
+  
+[[main]]
+  name = "Patient education"
+  url = "courses/"
+  weight = 70
 
 #[[main]]
   #name = "Contact"
