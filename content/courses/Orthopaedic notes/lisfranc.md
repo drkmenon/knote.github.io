@@ -1,15 +1,15 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Principles of TKA
+linktitle: Lisfranc anatomy
 menu:
   Orthopaedic Notes:
-    parent: Trauma
+    parent: Basic Science
     weight: 1
 title: Lisfranc anatomy
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
 {{% callout note %}}
