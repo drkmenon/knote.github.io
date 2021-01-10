@@ -1,5 +1,5 @@
 ---
-title: "Early clinical Exposure, why we want it?"
+title: "Early clinical Exposure, why do we want it?"
 author: "Kishore Puthezhath"
 date: '2021-01-10'
 slug: early-clinical-exposure-why-we-want-it
