@@ -22,7 +22,7 @@ Funnel plot and its statistical basis
  
 **Funnel plot** is a common question for FRCS(Tr & Orth) viva. To understand the concept, we have to give some thought in to the basis of this statistical tool. Let us start from the very base.
 
-Mean, median, and mode are three kinds of "averages". There are many "averages" in statistics, but these are, I think, the three most common.
+Mean, median, and mode are three kinds of "averages". There are many "averages" in statistics, but these are most common.
 
 **"mean"** is a statistical "average", where you add up all the variables and then divide by the number of variables.
 
@@ -33,7 +33,7 @@ The **"mode"** is the value that occurs most often. If no variable in the list i
 To understand funnel plot we should also know the statistical concepts of  *variance* , *standard deviation* and *standard error of mean*.
 
 ### Variance
-* It is the sum of average squared difference of mean.
+* **It is the sum of average squared difference of mean**.
 
 eg: x~1, x~2, x~3, x~n are a list of *n* number of values, then  mean, x̄ = (x~n + x~1 )/n. Then the **Variance**=Σ (x-x̄)^2/ (n-1).
 
@@ -50,13 +50,19 @@ Assume that someone is asked to walk on a straight line from point *a* to point 
 > Unlike standard deviation **variance** can identify the outliers and also shows the spread of the data.
 
 ### standard error of mean(SEM)
-* It is the standard deviation of the sample mean from the population mean. 
-Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist *y* started a study with a sample size of 50. He repeated the study for *n* times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these *n* studies and designated it as x̄~1. This x̄~1 is the **sample mean** for his study. Another scientist *z* selected a sample size of 10 and conducted *n* number of similar study and similarly he also got a sample mean, x̄~2. 
-So the decided to find out the actual population mean x̄ by studying the entire population. They also calculated how far the x̄~1 and x̄~2 deviate from x̄. The deviation of x̄~1 was found to be less than x̄~2. This deviation is called **Standard error of mean**
+* It is the standard deviation of the sample mean from the population mean.  
+Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist *y* started a study with a sample size of 50. He repeated the study for *n* times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these *n* studies and designated it as x̄~1. This x̄~1 is the **sample mean** for his study. 
+
+Another scientist *z* selected a sample size of 10 and conducted *n* number of similar study and similarly he also got a sample mean, x̄~2. 
+So they decided to find out the actual population mean x̄ by studying the entire population. They also calculated how far the x̄~1 and x̄~2 deviate from x̄. The deviation of x̄~1 was found to be less than x̄~2. This deviation is called **Standard error of mean**
+
 > when *n* increases,  **standard error of mean** decreases and the precision of the study increases.
+
 *This is the basis of **funnel plot**.*
+
 ### Funnel plot 
 It is a representation of **SEM** plotted against the true population mean or the no effect line of a study in a graph. Smaller studies tend to have larger SEM and the larger studies will have smaller SEM.  Hence the plot assumes a funnel shape. I an ideal world, **funnel plot** is supposed to form a symmetrical "funnel". This is not the case in real world, because of various reasons.
+
 ### Uses of funnel plot
 * To identify outliers. Eg: A surgical resident's performance
 * To identify the validity of a meta-analysis. An asymmetrical funnel plot suggests a potential problem with the results of the meta-analysis.
@@ -85,16 +91,20 @@ It is a representation of **SEM** plotted against the true population mean or th
 |Difference in outcome| |
 |Always present| |
 |Cannot be statistically evaluated |Can be evaluated statistically| 
+
 ### Detecting Heterogeneity 
 * Review the table describing individual studies
 * "eye ball test", review the forest plot
 * Review the statistical tests
 * Statistical tests
+
 ### Statistical tests for detecting heterogeneity 
 * Tests for its presence: Chi Square test, p>0.1 means study is homogenous 
 * Test to quantify: I^2 
 	* It measures the % of heterogeneity (≤25%––low, 50%––moderate, ≥75%––high)
+	
 ### Once heterogeneity is identified and quantified, he have to analyze and find out why it is present
+
 ### This is done by
 * subgroup analysis
 * Metaregression
