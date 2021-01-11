@@ -31,7 +31,7 @@ item:
   organization_url: https://www.nmc.org.in
   title: 'Basic Course in Biomedical Research'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
   date_start: "2019-09-25"
   description: 
@@ -39,12 +39,12 @@ item:
   organization_url: https://www.nmc.org.in
   title: 'Advanced Course in Medical Education'
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url: ""
   date_end: ""
   date_start: "2019-07-21"
   description: ""
   organization: Royal College of Surgeons, England
-  organization_url: https://www.datacamp.com
+  organization_url: "https://www.rcseng.ac.uk"
   title: 'FRCS Tr & Orth'
   url: ""
 ---
