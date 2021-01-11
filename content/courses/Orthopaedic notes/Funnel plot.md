@@ -10,10 +10,6 @@ title: Funnel plot
 toc: true
 type: docs
 weight: 2
-output: 
-  html_document: 
-    fig_caption: yes
-    toc: yes
 ---
 
 {{% callout note %}}
@@ -21,9 +17,9 @@ This is all you have to know for your FRCS exam
 {{% /callout %}}
 
 Funnel plot and its statistical basis
- 
-**Introduction**
 
+**Introduction**
+ 
 **Funnel plot** is a common question for FRCS(Tr & Orth) viva. To understand the concept, we have to give some thought in to the basis of this statistical tool. Let us start from the very base.
 
 Mean, median, and mode are three kinds of "averages". There are many "averages" in statistics, but these are, I think, the three most common.
@@ -34,7 +30,7 @@ The **"median"** is the **"middle"** value in the list of variables. To find the
 
 The **"mode"** is the value that occurs most often. If no variable in the list is repeated, then there is no mode for the list.
 
-To understand funnel plot we should also know the statistical concepts of *variance* , *standard deviation* and *standard error of mean*.
+To understand funnel plot we should also know the statistical concepts of  *variance* , *standard deviation* and *standard error of mean*.
 
 ### Variance
 * It is the sum of average squared difference of mean.
@@ -48,7 +44,10 @@ Standard deviation  σ = √∑, i.e., standard deviation is the square root of 
 
 Assume that someone is asked to walk on a straight line from point *a* to point *b*. The individual steps taken by the person can be equated to standard deviation and the variance is the deviation of the path from the central line.
 
-![sd and variance](images/funnel.png)
+![walking with variance and sd](https://photos.google.com/photo/AF1QipMLXdiSUpYQrYOJsFO8N8qfPOq0ShMLwEj8I-xi)
+
+
+
 
 > Unlike standard deviation **variance** can identify the outliers and also shows the spread of the data.
 
