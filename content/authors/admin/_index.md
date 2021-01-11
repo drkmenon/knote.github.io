@@ -20,7 +20,7 @@ interests:
 - Androgogy
 organizations:
 - name: Kerala University of Health Sciences
-  url: https://kuhhs.ac.in/
+  url: https://kuhs.ac.in/
 role: Professor Associate of Orthopaedics
 social:
 - icon: envelope
