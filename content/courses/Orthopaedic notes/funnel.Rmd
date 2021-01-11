@@ -21,7 +21,7 @@ This is all you have to know for your FRCS exam
 {{% /callout %}}
 
 Funnel plot and its statistical basis
-
+ 
 **Introduction**
 
 **Funnel plot** is a common question for FRCS(Tr & Orth) viva. To understand the concept, we have to give some thought in to the basis of this statistical tool. Let us start from the very base.
