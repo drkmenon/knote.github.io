@@ -35,9 +35,9 @@ experience:
         * Clubfoot and deformity clinic
         * Operative correction
         
-  - title: Professor Associate
+  - title: Professor (Associate)
     company: University KUHS
-    company_url: 'www.kuhs.ac.in'
+    company_url: ''
     location: India
     date_start: '2014-02-01'
     date_end: ''
