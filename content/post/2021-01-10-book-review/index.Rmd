@@ -20,7 +20,7 @@ csl: vancouver.csl
 link-citations: yes
 ---
 {{% callout note %}}
-This is all you have to know for your `FRCS Tr & Orth preperation`
+This is all you have to know `about books and resources` for your `FRCS Tr & Orth preperation`
 {{% /callout %}}
 
 ### Introduction
