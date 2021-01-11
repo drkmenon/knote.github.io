@@ -134,3 +134,7 @@ Viva was in the morning, but I had lot of time with out any distraction before t
 Of course there is no dress code for Part I. For the clinicals, the principle is to be bare below the elbow. Tie is not mandatory. But I preferred to wear one with the end tucked into the Light blue shirt. I wore dark blue trousers and black formal shoes. You are expected to wear a suit for the viva. I wore a dark blue one and a white shirt. The board expects you and only you for the examination. This means no need to carry any examination kit.
 ## Result
 Result came as an email from the CHAIR, JSCFE SPECIALTY BOARD IN TRAUMA & ORTHOPAEDIC SURGERY exactly 10 days after the examination. The email just informed me that I have been successful.
+
+## Deatailed book review
+
+you can read this [here](https://www.knotes.co.in/post/frcs-tr-orth/)
