@@ -13,6 +13,7 @@ weight: 2
 output: 
   html_document: 
     fig_caption: yes
+    toc: yes
 ---
 
 {{% callout note %}}
