@@ -4,7 +4,7 @@ draft: false
 linktitle: Funnel plot
 menu:
   Orthopaedic Notes:
-    parent: Basic Science
+    parent: Statistics
     weight: 1
 title: Funnel plot
 toc: true
