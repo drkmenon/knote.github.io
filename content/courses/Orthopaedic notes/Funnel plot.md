@@ -44,9 +44,7 @@ Standard deviation  σ = √∑, i.e., standard deviation is the square root of 
 
 Assume that someone is asked to walk on a straight line from point *a* to point *b*. The individual steps taken by the person can be equated to standard deviation and the variance is the deviation of the path from the central line.
 
-![walking with variance and sd](https://photos.google.com/photo/AF1QipMLXdiSUpYQrYOJsFO8N8qfPOq0ShMLwEj8I-xi)
-
-
+![walking with variance and sd](https://photos.app.goo.gl/TkYPS4Nu8wDjjc8i6)
 
 
 > Unlike standard deviation **variance** can identify the outliers and also shows the spread of the data.
