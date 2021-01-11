@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Consultant Paediatric Orthopaedic Surgeon
     company: Amala Institute of Medical Sciences
-    company_url: 'www.amalaims.org'
+    company_url: ''
     location: India
     date_start: '2019-01-01'
     date_end: ''
