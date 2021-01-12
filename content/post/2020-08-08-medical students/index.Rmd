@@ -25,7 +25,7 @@ link-citations: yes
 ---
 
 {{% callout note %}}
-The bivildering state of medical education
+The bewildering state of medical education
 {{% /callout %}}
 
 
