@@ -2,9 +2,10 @@
 header:
   caption: ""
   image: ""
-layout: docs
-title: Viva flashcards for FRCS and other slides
+title: Publications
+view: 6
 ---
+
 
 {{% callout note %}}
 coming soon
