@@ -17,7 +17,17 @@ bibliography: mypub.bib
 **With r you can take notes on classes including math, cite as you write, analyze data, pull out results and automatically attach inline,make slide shows, draw diagrams from textual representation and many more.**
 {{% /alert %}}
 
-On this page, you'll find some examples of the types of technical content that can be rendered with `r`.
+On this page, you'll find some examples of the following types of technical content that can be rendered with `r`.
+
+{{< spoiler text="List of topics">}}
++ Math
++ Flow charts
++ Gantt chart
++ to do list
++ Tables
++ Callouts
++ Spoilers
+{{< /spoiler >}}
 
 ## Examples
 
