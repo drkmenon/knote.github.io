@@ -69,7 +69,7 @@ Setup requires a  cetain amount of lerrning curve, but once completed, your acad
 
 `I will try to walk you through every step involved in the creation of this workflow in the forth coming posts.` 
 
-```{r}
+```{r echo=FALSE}
 knitr::include_url('https://www.knotes.co.in/static/nmj.html#1')
 ```
 
