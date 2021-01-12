@@ -10,7 +10,7 @@ tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Wowchemy
+# Create slides in Markdown with Wowchemy 
  
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
