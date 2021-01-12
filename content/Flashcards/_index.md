@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Publications
+title: flashcards
 view: 6
 ---
 

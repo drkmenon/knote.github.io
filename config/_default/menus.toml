@@ -37,7 +37,7 @@
   
 [[main]]
   name = "flashcards"
-  url = "slides/"
+  url = "flashcards/"
   weight = 70
 
 [[main]]
