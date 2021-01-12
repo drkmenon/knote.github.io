@@ -41,7 +41,7 @@ Two possible explanations are: smaller trials of lower methodological quality te
 ![Outliers](/img/funnel4.png)**Figure 3
 If so, what is this?**
 
-The funnel plot displays the % of observed  the total number of operations  on the Y-axis and  the total number of operations on the X-axis.  A practice lying on the line Y=1 has a surgeon performing close to average, whereas a practice lying above Y=1 has a  the total number of operations that is higher than the average.
+The funnel plot displays the % of observed 30-day mortality rate of operations  on the Y-axis and  the total number of operations on the X-axis.  A practice lying on the line Y=1 has a surgeon performing close to average, whereas a practice lying above Y=1 has a  the total number of operations that is higher than the average.
 {{% callout note %}}
 **Important point**  
 
