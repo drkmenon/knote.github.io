@@ -67,7 +67,7 @@ To understand funnel plot we should also know the statistical concepts of  *var
 ### Variance
 * **It is the sum of average squared difference of mean**.
 
-eg: x~1, x~2, x~3, x~n are a list of *n* number of values, then  mean, x̄ = (x~n + x~1 )/n. Then the **Variance**=Σ (x-x̄)^2/ (n-1).
+eg:  x~1, x~2, x~3, x~n  are a list of *n* number of values, then  mean, x̄ = (x~n + x~1 )/n. Then the  **Variance**=Σ (x-x̄)^2/ (n-1).
 
 ### Standard deviation
 * It is the measure of standardized dispersion of data from the mean. It is calculated by taking the square root of variance.
