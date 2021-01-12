@@ -2,7 +2,7 @@
 date: "2021-01-11"
 diagram: true
 math: true
-title: Writing technical content in `Academic`r`
+title: Writing technical content in `r`
 bibliography: mypub.bib
 ---
 
