@@ -7,7 +7,7 @@ menu:
     parent: Basic Science
     weight: 2
 linktitle: Bone healing
-toc: yes
+toc: true
 type: docs
 weight: 1
 ---
