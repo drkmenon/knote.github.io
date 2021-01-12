@@ -22,8 +22,8 @@ projects: []
 bibliography: mypub.bib
 csl: vancouver.csl
 link-citations: yes
-
 ---
+
 {{% callout note %}}
 This is all you have to know `about books and resources` for your `FRCS Tr & Orth preperation`
 {{% /callout %}}
@@ -43,7 +43,7 @@ Orthobullet's questions are the first possible starting point for anybody who wa
 
 ### www.onexamination.com
 
-[FRCS(Tr&Orth](https://www.onexamination.com/products/fcrs-trauma-orthopaedic?_pos=2&_sid=f4ce17103&_ss=r) If you better attempt Orthbullets in the beginning of your preparation, then there is another little secret. Go through the on examination questions at the end of your preparation. Along with the paid questions of Orthobullets, this little gem will give you some extra edge on that day.
+[FRCS(Tr&Orth)](https://www.onexamination.com/products/fcrs-trauma-orthopaedic?_pos=2&_sid=f4ce17103&_ss=r) If you should attempt Orthbullets in the beginning of your preparation, then there is another little secret. Go through the on examination questions at the end of your preparation. Along with the paid questions of Orthobullets, this little gem will give you some extra edge on that day.
 
 #### Part 2
 
@@ -76,13 +76,13 @@ Both Candidate's guide and the viva guide beautifully discusses the funnel plot.
 
 ##### Candidates guide
 
-*"Funnel plots are used to compare outcomes in groups of different sizes. It was seen in the section on SEM that with increasing sample size the SEM approaches zero; where this does not occur it is likely that some effect is being observed. **This can be used to detect ‘ outliers ’*
+>"Funnel plots are used to compare outcomes in groups of different sizes. It was seen in the section on SEM that with increasing sample size the SEM approaches zero; where this does not occur it is likely that some effect is being observed. This can be used to detect ‘ outliers ’*
 
-In outcome studies, such as when comparing mortality rates for different surgical centres or surgeons **Inverted funnel plots can be used to detect publication bias**; the SEM should be larger for studies with smaller sample sizes – If it is not this may indicate publication bias. ..........; if there is an effect of the intervention there will be a shift of the data points to the left but there should still be a greater scatter of results for the studies with a larger SEM. The plot on the left shows no such increase in scatter with increasing SEM, suggesting publication bias(two funnel plots are shown)"* @ConciseOrthopaedicNotesa
+>In outcome studies, such as when comparing mortality rates for different surgical centres or surgeons **Inverted funnel plots can be used to detect publication bias**; the SEM should be larger for studies with smaller sample sizes – If it is not this may indicate publication bias. ..........; if there is an effect of the intervention there will be a shift of the data points to the left but there should still be a greater scatter of results for the studies with a larger SEM. The plot on the left shows no such increase in scatter with increasing SEM, suggesting publication bias(two funnel plots are shown)"* @ConciseOrthopaedicNotesa
 
 ##### Viva Guide
 
-*"This is called **a funnel plot which is a simple scatterplot of the treatment effects (RR) estimated from individual studies (horizontal axis) against the precision of the studies represented by standard error (SE).** The vertical dotted line shows the estimated combined RR from the meta-analysis. The diagonal dotted lines show the range in which studies might be distributed by chance given the size (and thus precision) of each study. Thus larger (big sample size), more precise (smaller standard error) studies should be closely distributed either side of the pooled effect and smaller studies should be distributed more widely giving the classic inverted symmetrical funnel. If the studies are not distributed randomly (due to sampling error) around the combined RR estimate then some other influence is suggested. The funnel plot shows trials scattered asymmetrically around the pooled RR with smaller trials reporting a greater effect than larger ones. Two possible explanations are: smaller trials of lower methodological quality tend to overestimate true effect; publication bias has led to the smaller negative trials remaining unpublished."*
+>"This is called a funnel plot which is a simple scatterplot of the treatment effects (RR) estimated from individual studies (horizontal axis) against the precision of the studies represented by standard error (SE). The vertical dotted line shows the estimated combined RR from the meta-analysis. The diagonal dotted lines show the range in which studies might be distributed by chance given the size (and thus precision) of each study. Thus larger (big sample size), more precise (smaller standard error) studies should be closely distributed either side of the pooled effect and smaller studies should be distributed more widely giving the classic inverted symmetrical funnel. If the studies are not distributed randomly (due to sampling error) around the combined RR estimate then some other influence is suggested. The funnel plot shows trials scattered asymmetrically around the pooled RR with smaller trials reporting a greater effect than larger ones. Two possible explanations are: smaller trials of lower methodological quality tend to overestimate true effect; publication bias has led to the smaller negative trials remaining unpublished."
 You would appreciate the difference the moment you read a lesser book.
 
 ##### Concise Orthopaedic notes
