@@ -35,10 +35,6 @@
   url = "patient/"
   weight = 80
   
-[[main]]
-  name = "flashcards"
-  url = "flashcards/"
-  weight = 70
 
 [[main]]
   #name = "contact"
