@@ -48,7 +48,7 @@ The funnel plot displays the % of observed 30-day mortality rate of operations  
 Funnel plot is used to detect publication bias as well as outliers
 {{% /callout %}}
 
-##**Funnel plot**
+## **Funnel plot**
 
 This is a common question for FRCS(Tr & Orth) viva. To understand the concept, we have to give some thought in to the basis of this statistical tool. Let us start from the very base.
 
