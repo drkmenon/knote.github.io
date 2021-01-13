@@ -12,7 +12,7 @@ links:
 slides: example
 summary: Undergraduate student project currently under my guidance
 tags:
-- Orthopaedics
+- Ortho
 title: Prevalence  of Postoperative delirium and its association with intraoperative hypotension among  hip fracture patients 
 url_code: ""
 url_pdf: ""

@@ -12,7 +12,7 @@ links:
 slides: example
 summary: Postgraduate student project currently under my guidance
 tags:
-- Orthopaedics
+- Ortho
 title: Functional outcomes of distal radius fractures with and without ulnar styloid fractures among patients attending a tertiary hospital in South India - A comparative study
 url_code: ""
 url_pdf: ""
