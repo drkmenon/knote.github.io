@@ -7,12 +7,12 @@
 
 [[main]]
   name = "my thoughts"
-  url = "post/"
+  url = "#post"
   weight = 20
 
 [[main]]
   name = "projects"
-  url = "project/"
+  url = "#project"
   weight = 30
 
 [[main]]
@@ -22,7 +22,7 @@
 
 [[main]]
   name = "publications"
-  url = "publication/"
+  url = "#publication"
   weight = 50
 
 [[main]]
