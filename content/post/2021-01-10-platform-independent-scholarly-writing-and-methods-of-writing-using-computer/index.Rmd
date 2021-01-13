@@ -44,7 +44,7 @@ Amount of time spent in finding a proper workflow, converting documents to diffe
 + Automatic version control
 + Automatic saving in the cloud
 + Potential to convert to any document format known to me
-+ On the fly pupishing in the personal website
++ On the fly publishing in the personal website
 
 Having said that, there is some learning curve and the initial hard-work needed to achieve this is enormous. Once you have created the workflow and ironed out the `errors`, this will be a life long asset, period.
 
@@ -58,7 +58,7 @@ Following are the requirements:
 + GitHub account
 + Netlify account
 + LaTEX
-+ Use `Rmd` for most cases except course and posts requiring mermaid. I those cases use `md` (Always from the file, not from new post from addins)
++ Use `Rmd` for most cases except course and posts requiring mermaid. In those cases use `md` (Always from the file, not from new post from addins)
 
 {{% alert note %}}
 Setup requires a  cetain amount of lerrning curve, but once completed, your academic writing output will be changed for good for ever.

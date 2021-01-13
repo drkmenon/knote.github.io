@@ -30,7 +30,7 @@ This is called a funnel plot which is a simple scatterplot of the treatment effe
 {{% /callout %}}  
 The vertical dotted line shows the estimated combined RR or OR from the meta-analysis. The diagonal dotted lines show the range in which studies should be ideally distributed  given the size (and thus precision) of each study. Thus larger (big sample size), more precise (smaller standard error) studies should be closely distributed either side of the pooled effect and smaller studies should be distributed more widely giving the classic inverted symmetrical funnel. If the studies are not distributed randomly (due to sampling error) around the combined RR estimate then some other influence is suggested. 
 
-![assymetrical funnel](/img/funnel3.png)**Figure 2  
+![assymetrical funnel](/img/funnel3.png)**Figure 2
 Now what is this?**
 
 This funnel plot shows trials scattered asymmetrically around the pooled RR with smaller trials reporting a greater effect than larger ones. 
