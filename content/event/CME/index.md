@@ -1,5 +1,5 @@
 ---
-abstract: Updates on upcoming Orthopaedic Course on Basic Orthopaedic Pathology.The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences.
+abstract: The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences.
 address:
   city: Thrissur
   country: India
@@ -61,6 +61,11 @@ or
 
 Wire transfer: Account No. 3628879813, IFSC Code: SBIN0008693
 CSBI, VILANGAN)
+{{% /callout %}}
+
+## Registeration form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgkaSw4b0t8xm_GsXFiVEY2E25GABpm4F4GQdZkWiYe39Zqg/viewform?embedded=true" width="640" height="1965" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
