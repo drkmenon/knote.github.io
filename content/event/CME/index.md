@@ -1,5 +1,5 @@
 ---
-abstract: Upcoming Orthopaedic Course on Basic Orthopaedic Pathology.  
+abstract: Updates on upcoming Orthopaedic Course on Basic Orthopaedic Pathology:  
 
 The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences.
 address:
