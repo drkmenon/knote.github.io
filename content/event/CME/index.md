@@ -42,14 +42,14 @@ url_video: ""
 
 For Registeration, contact:
 {{% callout note %}}
-Dr Dijoe Davis
-Associate Professor of Orthopaedics,
+Dr Ajith John
+Senior Resident of Orthopaedics,
 Amala Institute of Medical Sciences,
 Amalanagar, Thrissur-680555  
 
-Phone: 94400326414  
+Phone: +91 81299 65994 
 
-e-mail: dr.dijoe@gmail.com
+e-mail: ajith.polutan@gmail.com 
 {{% /callout %}}
 
 {{% callout note %}}
