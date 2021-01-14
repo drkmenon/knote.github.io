@@ -37,3 +37,15 @@ url_video: ""
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDBdVo0lM1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+For Registeration, contact:
+{{% callout note %}}
+Dr Dijoe Davis
+Associate Professor of Orthopaedics,
+Amala Institute of Medical Sciences,
+Amalanagar, Thrissur-680555  
+
+Phone: 94400326414  
+
+e-mail: dr.dijoe@gmail.com
+{{% /callout %}}
