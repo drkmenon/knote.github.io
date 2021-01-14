@@ -89,4 +89,6 @@ Logbook: is a verified record of the progression of the learner documenting the 
 {{% /callout %}}
 
 A key aspect of the new Competency Based UG Curriculum is the emphasis on acquisition of competencies as a requisite for progression in the course. Active learning process by the student and his/her progression to achievement of competencies / pre- determined tasks need to be documented. A record of activities completed and competencies acquired is necessary to ensure that the learner has acquired the key competencies. The logbook forms an integral part of the formative / continuous assessment program.
+
+### References
  
