@@ -1,7 +1,5 @@
 ---
-abstract: Updates on upcoming Orthopaedic Course on Basic Orthopaedic Pathology:  
-
-The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences.
+abstract: Updates on upcoming Orthopaedic Course on Basic Orthopaedic Pathology.The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences.
 address:
   city: Thrissur
   country: India
@@ -41,6 +39,7 @@ url_video: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDBdVo0lM1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For Registeration, contact:
+
 {{% callout note %}}
 Dr Ajith John
 Senior Resident of Orthopaedics,
@@ -49,7 +48,7 @@ Amalanagar, Thrissur-680555
 
 Phone: +91 81299 65994 
 
-e-mail: ajith.polutan@gmail.com 
+e-mail: ajith.polutan@gmail.com
 {{% /callout %}}
 
 {{% callout note %}}
