@@ -10,7 +10,7 @@ all_day: True
 authors: []
 date: "2021-02-22T13:00:00Z"
 date_end: "2021-02-28T13:00:00Z"
-event: Foundation Course
+event: Basic Orthopaedic Pathology CME
 event_url: https://https://scolarlylife.netlify.app/talk/
 featured: true
 image:
