@@ -49,3 +49,16 @@ Phone: 94400326414
 
 e-mail: dr.dijoe@gmail.com
 {{% /callout %}}
+
+{{% callout note %}}
+Registration fees: INR 250
+Mode of transfer: 
+
+DD favouring `Amala Ortho CME` payable at SBI, Vilangan, Thrissur 
+
+or 
+
+Wire transfer: Account No. 3628879813, IFSC Code: SBIN0008693
+CSBI, VILANGAN)
+
+
