@@ -24,7 +24,7 @@ links:
 location: Amalanagar
 projects:
 - Basic Orthopaedic Pathology
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2021-01-14T00:00:00Z"
 slides: 
 summary: Upcoming Orthopaedic Course on Basic Orthopaedic Pathology.
 tags: []
