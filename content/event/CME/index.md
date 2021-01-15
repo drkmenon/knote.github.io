@@ -42,6 +42,8 @@ For Registration, contact:
 
 {{% callout note %}}
 Dr Ajith John
+
+ 
 Senior Resident of Orthopaedics,
 Amala Institute of Medical Sciences,
 Amalanagar, Thrissur-680555  
