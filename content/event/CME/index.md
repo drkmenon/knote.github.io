@@ -41,7 +41,7 @@ url_video: ""
 For Registration, contact:
 
 {{% callout note %}}
-Dr Ajith John,
+**Dr Ajith John**
 
  
 Senior Resident of Orthopaedics,
@@ -54,7 +54,8 @@ e-mail: ajith.polutan@gmail.com
 {{% /callout %}}
 
 {{% callout note %}}
-Registration fees: INR 250
+Registration fees: INR 250  
+
 Mode of transfer: 
 
 DD favouring `Amala Ortho CME` payable at SBI, Vilangan, Thrissur 
