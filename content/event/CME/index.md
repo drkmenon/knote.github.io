@@ -38,7 +38,7 @@ url_video: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDBdVo0lM1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For Registeration, contact:
+For Registration, contact:
 
 {{% callout note %}}
 Dr Ajith John
@@ -63,7 +63,7 @@ Wire transfer: Account No. 3628879813, IFSC Code: SBIN0008693
 CSBI, VILANGAN)
 {{% /callout %}}
 
-## Registeration form
+## Registration form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgkaSw4b0t8xm_GsXFiVEY2E25GABpm4F4GQdZkWiYe39Zqg/viewform?embedded=true" width="640" height="1965" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
