@@ -1,5 +1,5 @@
 ---
-abstract: The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences. From 22 to 27 February, there will be high quality offline prerecorded video presentations served through moodle platform and daily evening disucssion of that day's topic from 9pm to 10 pm. On 28th, we will be having a full day program with live discussions of case scenarios.
+abstract: The intention of this course is to give the candidates an opportunity to get insights into the biological process leading to Orthopaedic diseases. This is the 7th such collaboration between the Postgraduate departments of Orthopaedics and Pathology, Amala Institute of Medical Sciences. From 22 to 27 February, there will be high quality offline prerecorded video presentations  and daily evening disucssion of that day's topic from 9pm to 10 pm, served through moodle platform. On 28th, we will be having a full day program with live discussions of case scenarios.
 address:
   city: Thrissur
   country: India
