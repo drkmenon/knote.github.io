@@ -41,7 +41,7 @@ url_video: ""
 For Registration, contact:
 
 {{% callout note %}}
-Dr Ajith John
+Dr Ajith John,
 
  
 Senior Resident of Orthopaedics,
