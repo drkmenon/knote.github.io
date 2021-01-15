@@ -49,10 +49,6 @@ hero_media = "hero-academic.png"
 
 +++
 
-**Announcement: upcoming CME**
-
-<iframe width="400" height="200" src="https://www.youtube.com/embed/oDBdVo0lM1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 **The Best Way to learn Orthopaedics**
 
