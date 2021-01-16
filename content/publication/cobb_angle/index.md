@@ -10,7 +10,7 @@ date: "2017-12-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**kjs**](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5769934/bin/kjs-14-4-139f1.gif)'
+  caption: 
   focal_point: ""
   preview_only: true
 projects: []
