@@ -66,6 +66,14 @@ Wire transfer: Account No. 3628879813, IFSC Code: SBIN0008693
 CSBI, VILANGAN)
 {{% /callout %}}
 
+{{% callout note %}}
+**Organizing Chairman**  
+**Prof Dominic K Puthoor**  
+`National Figure in Orthopaedic Oncology`   
+Excellent teacher  
+Has got more than 35 years of experience 
+{{% /callout %}}
+
 ## Registration form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgkaSw4b0t8xm_GsXFiVEY2E25GABpm4F4GQdZkWiYe39Zqg/viewform?embedded=true" width="640" height="1965" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
