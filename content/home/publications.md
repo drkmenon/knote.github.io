@@ -37,3 +37,4 @@ design:
   view: 4
 ---
 
+List of recent publications
