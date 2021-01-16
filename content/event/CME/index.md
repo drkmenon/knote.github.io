@@ -68,7 +68,7 @@ CSBI, VILANGAN)
 
 {{% callout note %}}
 **Organizing Chairman**  
-**Prof Dominic K Puthoor**  
+**Prof Dominic K Puthoor MS**  
 `National Figure in Orthopaedic Oncology`   
 Excellent teacher  
 Has got more than 35 years of experience 
